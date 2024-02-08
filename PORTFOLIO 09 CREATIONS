@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Portfolio 09 Creations</title>
+
+    <link rel="stylesheet" href="estilo2.css" />
+
+<body>
+    <div class="botoestitulo">
+        <div class="link-tree">
+            <h1 class="intro-pag-titulo">PORTFOLIO 09 CREATIONS</h1>
+            </p>
+        </div>
+
+        <div class="botao"><a href="">09 CREATIONS</a></div>
+        <div class="botao-2"><a href="">MONSTRO LANCHES</a></div>
+        <div class="botao-3"><a href="">PINTURA FACIAL ESTELA DIAS</a></div>
+        
+    </div>
+
+    <footer>LinkTree Portfolio</footer>
+</body>
+
+</html>
