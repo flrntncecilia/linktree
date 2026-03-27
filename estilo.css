@@ -34,8 +34,8 @@ footer
     position: absolute;
     bottom: 0;
     text-align: center;
-    color: #6D1835;
-    background: ##FF006E;
+    color: ##6D1835;
+    background: #F9F5EC;
     font-family: 'Playfair Display', serif;
     font-size: 12.5px;
     width: 100%;
@@ -61,7 +61,7 @@ footer
 
 .botao
 {
-    margin-left: 835px;
+    margin: auto;
     background-color: #FFD509;
     width: 250px;
     text-align: center;
@@ -76,7 +76,7 @@ footer
 
 .botao-2
 {
-    margin-left: 835px;
+    margin: auto;
     background-color: #F9F5EC;
     width: 250px;
     text-align: center;
@@ -91,7 +91,7 @@ footer
 
 .botao-3
 {
-    margin-left: 835px;
+    margin: auto;
     background-color: #FFD509;
     width: 250px;
     text-align: center;
@@ -106,7 +106,7 @@ footer
 
 .botao-4
 {
-    margin-left: 835px;
+    margin: auto;
     background-color: #F9F5EC;
     width: 250px;
     text-align: center;
